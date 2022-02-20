@@ -1,0 +1,6 @@
+netlify
+https://fervent-lewin-4cff3d.netlify.app
+
+git hub
+
+https://rizwi0786.github.io/R-D-cell/

@@ -98,7 +98,7 @@ p {
 }
 #header .logo img {
   width: 80px;
-  border-radius: 50%;
+  border-radius: 10%;
   margin: 7px 6px;
 }
 .logo {
@@ -398,10 +398,12 @@ p {
 }
 .box img {
   width: 150px;
-  border-radius: 50%;
+
+  border-radius: 10%;
   display: block;
   margin: auto;
   align-items: center;
+  box-shadow: 10px 12px 3px rgba(0, 0, 0, 0.5);
 }
 .box p {
   color: black;
